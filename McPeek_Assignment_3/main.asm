@@ -6,6 +6,7 @@
 ;	Capt Trimble
 ;	T5
 ;
+;  new comment!
 ;
 ;-------------------------------------------------------------------------------
             .cdecls C,LIST,"msp430.h"       ; Include device header file
